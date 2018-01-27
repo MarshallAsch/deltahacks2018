@@ -1,0 +1,4 @@
+#Sat Jan 27 18:32:30 EST 2018
+base.0=/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
