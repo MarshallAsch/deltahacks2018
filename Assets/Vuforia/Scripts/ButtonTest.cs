@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
+//using TMPro;
 
 public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 
@@ -66,12 +67,16 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 //
 //
 //
+		//TextMeshPro mTest = gameObject.GetComponent <TextMeshPro>();
+
 		if (mShowGUIButton) {
 			// draw the GUI button
 			GUI.Button (mButtonRect, mTrackableBehaviour.TrackableName);
+			//mTest.text = "hey";
 			//if (GUI.Button(mButtonRect, "Hello")) {
 			//	 do something on button click 
 			//}
+
 		}
 
 	}
