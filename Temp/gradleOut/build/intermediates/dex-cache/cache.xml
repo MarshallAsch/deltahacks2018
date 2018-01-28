@@ -3,30 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="/Users/marshall/.android/build-cache/34df435825f5d1ef619289a4715cdce84f56fc49/output/jars/libs/VuforiaUnityPlayer.jar"
+        jar="/Users/marshall/.android/build-cache/5419ba259d501ad5f12c6888266c77be8a586683/output/jars/libs/VuforiaUnityPlayer.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
-        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/VuforiaUnityPlayer_a149f101930bf393c54d06e74389bb541cf39ac8.jar" />
+        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/VuforiaUnityPlayer_c8da4562db8c82e591e06499d5e56debda524f72.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/marshall/.android/build-cache/c601c5abb6c2aca9158441d32eaefd531ee56b5e/output/jars/libs/MIO_SDK_UNITY_1.3.9_10156.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="36d62f6d697622df4e997531cbb4491e844a011c">
-        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/MIO_SDK_UNITY_1.3.9_10156_0d2d75ec964afbac7a3dc369eca7c6197f58f65d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/marshall/.android/build-cache/34df435825f5d1ef619289a4715cdce84f56fc49/output/jars/libs/Vuforia.jar"
+        jar="/Users/marshall/.android/build-cache/5419ba259d501ad5f12c6888266c77be8a586683/output/jars/libs/Vuforia.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
-        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/Vuforia_097124ca15ab6db42fddd3c514580be66cc88408.jar" />
+        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/Vuforia_7778c2fea41f8af844d77fa45539765915da2f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/1e48f983e1feadcfd81c6c7c9b5ff13c5cab361a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c152a3dffb906c0d318bd6d9781d52728968110c">
+        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_e7b42bd26c4b40be9d25e65ebfdb6db87456417c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/1e48f983e1feadcfd81c6c7c9b5ff13c5cab361a/output/jars/libs/MIO_SDK_UNITY_1.3.9_10156.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="36d62f6d697622df4e997531cbb4491e844a011c">
+        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/MIO_SDK_UNITY_1.3.9_10156_2154c7e1091d3fb663cfa803ccd1984902756024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marshall/.android/build-cache/5419ba259d501ad5f12c6888266c77be8a586683/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_2fdcdebff79b84779e082e18db310fd5de7dda86.jar" />
     </item>
     <item
         is-multidex="false"
@@ -36,24 +54,6 @@
         revision="27.0.3"
         sha1="9c2b504d7b0bcb8d1372016e70a097d48a95f45c">
         <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/unity-classes_04ef4d347bca58f288aa764eb337004424f5eadf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/marshall/.android/build-cache/34df435825f5d1ef619289a4715cdce84f56fc49/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
-        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_67ab710cfaef0ccbd8fc90bfaaf06adbf6bb14f6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/marshall/.android/build-cache/c601c5abb6c2aca9158441d32eaefd531ee56b5e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="c152a3dffb906c0d318bd6d9781d52728968110c">
-        <dex dex="/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/pre-dexed/debug/classes_e30be899c46449907a43711c4f08f3d293d4dc8d.jar" />
     </item>
 
 </items>

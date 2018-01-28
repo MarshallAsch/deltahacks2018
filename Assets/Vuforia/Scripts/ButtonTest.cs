@@ -20,9 +20,16 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 			mTrackableBehaviour.RegisterTrackableEventHandler(this);
 		}
 
-		tText = gameObject.AddComponent<TextMeshPro> ();
-		tText.transform.position = new Vector3 (9, -2, 2);
-		tText.fontSize = 5;
+		//tText = gameObject.AddComponent<TextMeshPro> ();
+		///tText.transform.position = new Vector3 (9, -2, 2);
+		//tText.fontSize = 5;
+
+
+		if (GameObject.Find ("coffeeText") != null)
+		{
+			tText = GameObject.Find ("coffeeText").GetComponent<TextMeshPro> ();
+		}
+
 		//text = GetComponentInChildren <TextMesh>();
 	
 	}

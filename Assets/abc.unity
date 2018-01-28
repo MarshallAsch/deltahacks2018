@@ -527,7 +527,7 @@ GameObject:
   - component: {fileID: 1177068285}
   - component: {fileID: 1177068284}
   m_Layer: 0
-  m_Name: TextMeshPro
+  m_Name: coffeeText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
