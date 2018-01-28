@@ -33,12 +33,12 @@ ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidMan
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
 application
 ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
-MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:21:5-57:19
-MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:19:5-25:19
+MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:21:5-57:19
+MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:19:5-25:19
 	android:label
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:92-124
 	android:debuggable
-		ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:19:18-44
+		ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:19:18-44
 	android:icon
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-91
 	android:banner
@@ -101,8 +101,8 @@ ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidMan
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-49
 uses-sdk
 ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-72
-MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:7:5-43
-MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:8:5-10:41
+MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:7:5-43
+MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:8:5-10:41
 	android:targetSdkVersion
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:17:40-69
 		INJECTED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml
@@ -115,18 +115,18 @@ ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidMan
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:18:17-49
 uses-permission#android.permission.INTERNET
 ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-65
-MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:15:5-67
-MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:14:5-67
+MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:15:5-67
+MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:14:5-67
 	android:name
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-62
 uses-permission#android.permission.CAMERA
 ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-63
-MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:15:5-65
 	android:name
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-60
 uses-feature#android.hardware.camera
 ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-83
-MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:12:5-60
 	android:required
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:21:56-80
 		MERGED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:21:56-80
@@ -146,8 +146,8 @@ ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidMan
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-61
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-106
-MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:10:5-81
-MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:17:5-81
+MERGED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:10:5-81
+MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:17:5-81
 	android:maxSdkVersion
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:24:77-103
 	android:name
@@ -177,107 +177,107 @@ ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidMan
 	android:name
 		ADDED from /Users/marshall/Desktop/test unity/Temp/gradleOut/src/main/AndroidManifest.xml:28:17-80
 uses-permission#android.permission.GET_TASKS
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:9:5-68
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:9:5-68
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:9:22-65
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:9:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:11:5-76
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:11:5-76
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:11:22-73
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:11:22-73
 uses-permission#com.xiaomi.sdk.permission.PAYMENT
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:12:5-73
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:12:5-73
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:12:22-70
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:12:22-70
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:13:5-75
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:13:5-75
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:13:22-72
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:13:22-72
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:14:5-71
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:14:5-71
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:14:22-68
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:14:22-68
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:16:5-79
-MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:16:5-79
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:16:5-79
+MERGED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:16:22-76
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:16:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:17:5-81
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:17:22-78
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:17:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:18:5-79
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:18:22-76
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:18:22-76
 uses-permission#com.xiaomi.permission.AUTH_SERVICE
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:19:5-74
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:19:5-74
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:19:22-71
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:19:22-71
 activity#com.xiaomi.gamecenter.sdk.ui.MiActivity
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:24:9-29:20
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:24:9-29:20
 	android:screenOrientation
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:27:13-47
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:27:13-47
 	android:configChanges
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:26:13-59
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:26:13-59
 	android:theme
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:28:13-72
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:28:13-72
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:25:13-67
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:25:13-67
 activity#com.xiaomi.gamecenter.sdk.ui.PayListActivity
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:30:9-34:75
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:30:9-34:75
 	android:exported
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:33:13-36
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:33:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:32:13-59
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:32:13-59
 	android:theme
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:34:13-72
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:34:13-72
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:31:13-72
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:31:13-72
 activity#com.xiaomi.gamecenter.alipay.HyAlipayActivity
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:35:9-39:75
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:35:9-39:75
 	android:exported
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:38:13-36
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:38:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:37:13-59
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:37:13-59
 	android:theme
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:39:13-72
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:39:13-72
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:36:13-73
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:36:13-73
 activity#com.xiaomi.account.openauth.AuthorizeActivity
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:40:9-44:75
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:40:9-44:75
 	android:exported
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:43:13-36
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:43:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:42:13-59
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:42:13-59
 	android:theme
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:44:13-72
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:44:13-72
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:41:13-73
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:41:13-73
 activity#com.xiaomi.gamecenter.wxwap.HyWxWappayActivity
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:45:9-49:75
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:45:9-49:75
 	android:exported
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:48:13-36
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:48:13-36
 	android:configChanges
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:47:13-59
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:47:13-59
 	android:theme
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:49:13-72
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:49:13-72
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:46:13-74
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:46:13-74
 activity#com.alipay.sdk.app.H5PayActivity
-ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:50:9-55:70
+ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:50:9-55:70
 	android:screenOrientation
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:54:13-47
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:54:13-47
 	android:exported
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:53:13-37
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:53:13-37
 	android:windowSoftInputMode
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:55:13-67
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:55:13-67
 	android:configChanges
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:52:13-85
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:52:13-85
 	android:name
-		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/92546b31e7c20ebc2d5064db48ab1ed9124d5068/output/AndroidManifest.xml:51:13-60
+		ADDED from [:UnityChannel:] /Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/AndroidManifest.xml:51:13-60
 uses-library#com.osterhoutgroup.api.ext
-ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:22:9-24:40
+ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:22:9-24:40
 	android:required
-		ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:24:13-37
+		ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/062702c1f7e4f0bb1bafeb4fd4cd719ac348553d/output/AndroidManifest.xml:23:13-54
+		ADDED from [:VuforiaWrapper:] /Users/marshall/.android/build-cache/2bfb56ce16860a92e630e24ed3042867be2e617c/output/AndroidManifest.xml:23:13-54
