@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
+using TMPro;
 
 public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 
@@ -10,6 +11,7 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 	private TextMesh text;
 	private Rect mButtonRect = new Rect (0, 0, 120, 60);
 
+	private TextMeshPro tText;
 
 	void Start () {
 		mTrackableBehaviour = GetComponent<TrackableBehaviour>();
@@ -18,6 +20,9 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 			mTrackableBehaviour.RegisterTrackableEventHandler(this);
 		}
 
+		tText = gameObject.AddComponent<TextMeshPro> ();
+		tText.transform.position = new Vector3 (9, -2, 2);
+		tText.fontSize = 5;
 		//text = GetComponentInChildren <TextMesh>();
 	
 	}
@@ -66,9 +71,13 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 //
 //
 //
+
+
+
 		if (mShowGUIButton) {
 			// draw the GUI button
 			GUI.Button (mButtonRect, mTrackableBehaviour.TrackableName);
+			tText.text = "test";
 			//if (GUI.Button(mButtonRect, "Hello")) {
 			//	 do something on button click 
 			//}

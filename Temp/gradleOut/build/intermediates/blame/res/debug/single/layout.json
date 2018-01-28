@@ -1,10 +1,10 @@
 [
     {
         "merged": "/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/res/merged/debug/layout/mio_activity_paylist.xml",
-        "source": "/Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/res/layout/mio_activity_paylist.xml"
+        "source": "/Users/marshall/.android/build-cache/c601c5abb6c2aca9158441d32eaefd531ee56b5e/output/res/layout/mio_activity_paylist.xml"
     },
     {
         "merged": "/Users/marshall/Desktop/test unity/Temp/gradleOut/build/intermediates/res/merged/debug/layout/mio_item_pay.xml",
-        "source": "/Users/marshall/.android/build-cache/7000e669aee5cdb9c0bdcf5f36c1ddb1bb3e8e1e/output/res/layout/mio_item_pay.xml"
+        "source": "/Users/marshall/.android/build-cache/c601c5abb6c2aca9158441d32eaefd531ee56b5e/output/res/layout/mio_item_pay.xml"
     }
 ]
