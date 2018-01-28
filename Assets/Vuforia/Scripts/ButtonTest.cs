@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
 using TMPro;
+using UnityEngine.Networking;
+
 
 public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 
@@ -29,6 +31,7 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 		{
 			tText = GameObject.Find ("coffeeText").GetComponent<TextMeshPro> ();
 		}
+
 
 		//text = GetComponentInChildren <TextMesh>();
 	
@@ -84,11 +87,41 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 		if (mShowGUIButton) {
 			// draw the GUI button
 			GUI.Button (mButtonRect, mTrackableBehaviour.TrackableName);
-			tText.text = "test";
+			tText.text = mTrackableBehaviour.TrackableName;
+			StartCoroutine(getObject());
+
 			//if (GUI.Button(mButtonRect, "Hello")) {
 			//	 do something on button click 
 			//}
 		}
 
+	}
+
+
+	IEnumerator getObject()
+	{
+		string getCountriesUrl = "http://api.hermes.marshallasch.ca/v1/objects/coffeeText";
+		using (UnityWebRequest www = UnityWebRequest.Get(getCountriesUrl))
+		{
+			//www.chunkedTransfer = false;
+			yield return www.Send();
+			if (www.isNetworkError || www.isHttpError)
+			{
+				Debug.Log(www.error);
+			}
+			else
+			{
+				if (www.isDone)
+				{
+					string jsonResult = 
+						System.Text.Encoding.UTF8.GetString(www.downloadHandler.data);
+					Debug.Log(jsonResult);
+
+					tText.text = jsonResult;
+					//set text here
+					//entities.response.description
+				}
+			}
+		}
 	}
 }
