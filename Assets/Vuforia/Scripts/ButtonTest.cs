@@ -7,8 +7,8 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 
 	private TrackableBehaviour mTrackableBehaviour;
 	private bool mShowGUIButton = false;
-
-
+	private TextMesh text;
+	private Rect mButtonRect = new Rect (0, 0, 120, 60);
 
 
 	void Start () {
@@ -17,6 +17,8 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 		{
 			mTrackableBehaviour.RegisterTrackableEventHandler(this);
 		}
+
+		//text = GetComponentInChildren <TextMesh>();
 	
 	}
 
@@ -35,14 +37,25 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 		}
 	}
 
+	void Update()
+	{
+
+		//Vector3 v = Camera.main.transform.position - transform.position;
+
+		//v.x = v.z = 0.0f;
+		//transform.LookAt (Camera.main.transform - v);
+		//transform.Rotate (0,180,0);
+		//transform.rotation = Quaternion.LookRotation(-Camera.main.transform.forward, Camera.main.transform.up);
+	}
+
 	void OnGUI() {
-		if (mShowGUIButton)
-		{
-			Text.text = "Object" + mTrackableBehaviour.TrackableName;
-		} else
-		{
-			Text.text = "";
-		}
+		//if (mShowGUIButton)
+		//{
+		//	text.text = mTrackableBehaviour.TrackableName;
+		//} else
+		//{
+		//	text.text = "";
+		//}
 //		GUIStyle guiStyle;
 //		guiStyle = new GUIStyle();
 //		guiStyle.font = font;
@@ -53,13 +66,13 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 //
 //
 //
-//		if (mShowGUIButton) {
-//			// draw the GUI button
-//			//GUI.Button (mButtonRect, c, guiStyle);
-//			//if (GUI.Button(mButtonRect, "Hello")) {
-//				// do something on button click 
-//			//}
-//		}
+		if (mShowGUIButton) {
+			// draw the GUI button
+			GUI.Button (mButtonRect, mTrackableBehaviour.TrackableName);
+			//if (GUI.Button(mButtonRect, "Hello")) {
+			//	 do something on button click 
+			//}
+		}
 
 	}
 }
