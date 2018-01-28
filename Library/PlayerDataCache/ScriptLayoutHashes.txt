@@ -95,6 +95,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 6af7378a45ad6da4992a71ef50ddc2eb UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 9ca6347af5ceb6b0d1c105af31b6722e UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.cibc
 76015de5fcb247eeb8df66c001d5a22d Assembly-CSharp.dll:TMPro.Examples.TMP_UiFrameRateCounter
 75cd0c6c744b9733ef29aa6c59ece2b1 Assembly-CSharp.dll:TMPro.Examples.VertexJitter
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -233,6 +234,7 @@ e763036081c708b34f78f5a56f72c23d TextMeshPro-2017.3-1.0.56-Runtime.dll:TMPro.TMP
 d672cee35261f9935d5ce974c746730f TextMeshPro-2017.3-1.0.56-Runtime.dll:TMPro.TMP_Text
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.TMP_TextSelector_A
 b900ead596b2fb1093b31cb63a678767 Assembly-CSharp.dll:TMPro.Examples.TextMeshProFloatingText
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.juiceEvent
 dad1c1272dfe1898bb613dcb2631bcce Assembly-CSharp.dll:TMPro.Examples.Benchmark02
 05524b8f659e7bfe5756d1335fec24ba TextMeshPro-2017.3-1.0.56-Editor.dll:TMPro.EditorUtilities.DropdownEditor
 05524b8f659e7bfe5756d1335fec24ba TextMeshPro-2017.3-1.0.56-Editor.dll:TMPro.EditorUtilities.TMP_ColorGradientEditor
@@ -369,4 +371,3 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
 34e025057ef78b1bf238460cdf6583a3 Assembly-CSharp.dll:TMPro.Examples.ObjectSpin
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:TMPro.Examples.SimpleScript
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.juiceEvent
