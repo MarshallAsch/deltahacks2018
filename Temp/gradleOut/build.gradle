@@ -39,7 +39,7 @@ android {
 	}
 
 	aaptOptions {
-		noCompress '.unity3d', '.ress', '.resource', '.obb','vuforia/vuforiamars_images.dat','vuforia/vuforiamars_images.xml','vuforia/vuforiamars_modeltarget.dat','vuforia/vuforiamars_modeltarget.xml','vuforia/vuforiamars_object_ot.dat','vuforia/vuforiamars_object_ot.xml','vuforia/vuforiamars_vumark.dat','vuforia/vuforiamars_vumark.xml'
+		noCompress '.unity3d', '.ress', '.resource', '.obb','vuforia/vuforiamars_images.dat','vuforia/vuforiamars_images.xml','vuforia/vuforiamars_modeltarget.dat','vuforia/vuforiamars_modeltarget.xml','vuforia/vuforiamars_object_ot.dat','vuforia/vuforiamars_object_ot.xml','vuforia/vuforiamars_vumark.dat','vuforia/vuforiamars_vumark.xml','vuforia/test.dat','vuforia/test.xml','vuforia/test_ot.dat','vuforia/test_ot.xml'
 	}
 
 
