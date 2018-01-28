@@ -8,7 +8,7 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 
 	private TrackableBehaviour mTrackableBehaviour;
 	private bool mShowGUIButton = false;
-	private TextMesh text;
+	//private TextMesh text;
 	private Rect mButtonRect = new Rect (0, 0, 120, 60);
 
 
@@ -67,7 +67,7 @@ public class ButtonTest : MonoBehaviour, ITrackableEventHandler {
 //
 //
 //
-		//TextMeshPro mTest = gameObject.GetComponent <TextMeshPro>();
+		//TMP_Text mTest = gameObject.GetComponent <TMP_Text>();
 
 		if (mShowGUIButton) {
 			// draw the GUI button
