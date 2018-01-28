@@ -41,7 +41,10 @@ public class juiceEvent : MonoBehaviour, ITrackableEventHandler {
 	{
 		if (newStatus == TrackableBehaviour.Status.DETECTED ||
 			newStatus == TrackableBehaviour.Status.TRACKED)
-		{
+		{			tText.text = mTrackableBehaviour.TrackableName;
+			
+			StartCoroutine(getObject());
+
 			mShowGUIButton = true;
 		}
 		else
@@ -85,9 +88,9 @@ public class juiceEvent : MonoBehaviour, ITrackableEventHandler {
 		if (mShowGUIButton) {
 			// draw the GUI button
 			GUI.Button (mButtonRect, mTrackableBehaviour.TrackableName);
-			tText.text = mTrackableBehaviour.TrackableName;
+			//tText.text = mTrackableBehaviour.TrackableName;
 
-			StartCoroutine(getObject());
+			//StartCoroutine(getObject());
 			//if (GUI.Button(mButtonRect, "Hello")) {
 			//	 do something on button click 
 			//}
